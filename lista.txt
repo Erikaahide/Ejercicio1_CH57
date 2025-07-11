@@ -1,4 +1,4 @@
-lista de compras
-1hola
-2como estas
-3 
+Lista de compras
+1. Huevo
+2. Pollo
+3. 
